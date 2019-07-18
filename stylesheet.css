@@ -7,3 +7,23 @@ body {color: red;}
 
 p {color: black}
 
+.bodycopy{
+    color: red;
+    font-weight:400;
+    font-family: Arial, Helvetic, sans-serif;
+}
+.example{
+    color: purple;
+}
+.truth{
+    color:blueviolet;
+}
+.book{
+    color:burlywood;
+}
+.example{
+    background-color: black;
+    color: brown;
+    width: 100%;
+    
+}
